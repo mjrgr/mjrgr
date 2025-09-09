@@ -1,0 +1,8 @@
+# Every time you press `return` on your keyboard you're actually inserting an invisible character called a line ending.
+# Historically, different operating systems have handled line endings differently.
+# When you view changes in a file, Git handles line endings in its own way.
+# Since you're collaborating on projects with multiple technologies and OS, Git might produce unexpected results if, for example, you're editing, on a Windows machine, some files that will be run under Linux on Docker.
+# The git config core.autocrlf command is used to change how Git handles line endings. It works for diff on multi-os collaborating.
+# On Windows, you simply pass true to the configuration: git config --global core.autocrlf true
+# The following option do this for this project, in case people don't have core.autocrlf set.
+* text=lf
