@@ -15,6 +15,6 @@ When I’m not deep in pipelines, Kubernetes clusters, or coding, you can probab
 
 ### 📊 Github Stats
 
-![Shivam's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mjrgr&hide=stars&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mjrgr&layout=compact&theme=radical)](https://github.com/mjrgr/github-readme-stats)
+![Shivam's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mjrgr&hide=stars&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mjrgr&layout=compact)](https://github.com/mjrgr/github-readme-stats)
 
