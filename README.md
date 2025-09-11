@@ -11,7 +11,8 @@ DevOps Engineer with more than 20 years of experience, I love building reliable,
 When I’m not deep in pipelines, Kubernetes clusters, or coding, you can probably find me running a trail, on my bike, or practicing yoga to recharge my energy.
 
 - 📫 How to reach me: mehdi.jaqir@gmail.com
-- 📝 My [Resume](./cv-mjg-en.pdf).
+- 📝 My [Resume (english)](./cv-mjg-en.pdf).
+- 📝 My [Resume (french)](./cv-mjg-fr.pdf).
 
 ### 📊 Github Stats
 
