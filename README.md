@@ -1,3 +1,8 @@
+---
+layout: home
+title: Mehdi JAQIR-GRANGER
+---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Mehdi+JAQIR-GRANGER;DevOps+Engineer+%7C+☁️+Kubernetes+Nerd+%7C+🏔️+Trail+Runner)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-jaqir-granger-51169679/)
