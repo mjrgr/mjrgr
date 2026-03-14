@@ -1,21 +1,21 @@
-title: Mehdi JAQIR-GRANGER
-description: Senior DevOps / Platform Engineer
+title: Mehdi
+description: Senior DevOps
 url: "https://me.podpacer.cc"
-
+ 
 theme: minima
 minima:
   skin: dark
-
+ 
 plugins:
   - jekyll-seo-tag
-
+ 
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
+ 
 exclude:
   - Gemfile
   - Gemfile.lock
-  - README.md
   - .gitignore
+ 
